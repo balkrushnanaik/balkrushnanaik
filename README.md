@@ -130,48 +130,6 @@
 
 </div>
 
---- 
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balkrushnanaik&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balkrushnanaik&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balkrushnanaik&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
 ---
 
 # 👀 Profile Views
@@ -180,8 +138,3 @@
 <img src="https://komarev.com/ghpvc/?username=balkrushnanaik&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
 
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,100:00F5A0&height=120&section=footer"/>
-</p>
