@@ -4,17 +4,9 @@
 📊 Data Analyst Enthusiast | 💻 Full Stack Developer | 🚀 Computer Engineering Student
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Data+Analytics+Enthusiast;Full+Stack+Developer;Python+%7C+Java+%7C+MySQL;Power+BI+Dashboard+Developer;Computer+Engineering+Student;Turning+Data+Into+Insights+📈;Building+Projects+With+Code+💻;Always+Learning+New+Technologies+🚀" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
 
 ---
 
-<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🚀 About Me
 
